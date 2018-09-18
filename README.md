@@ -1,6 +1,6 @@
 # MiVPVC
 PageViewController
-###使用简单方便的PageView控件 以前整理的 我的项目中有使用
+### 使用简单方便的PageView控件 以前整理的 我的项目中有使用
 ```
    private let vcs = [
         //sb中的名称 显示标题 图标名称
