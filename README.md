@@ -14,15 +14,6 @@ import UIKit
 import MBProgressHUD
 
 class ViewController: MiViewPagerVC,MiViewPagerVCDelegate,MiViewPagerVCDataSource {
-
-//    private let clses = [
-//        ["xinpin","翡翠新品"],
-//        ["feicuipifa","超值推荐"],
-//        ["guajian","翡翠挂件"],
-//        ["shouzhuo","翡翠手镯"],
-//        ["shoushi","翡翠饰品"],
-//        ["zaxiang","翡翠杂项"]
-//    ]
     
     private let clses = [
         ["New","翡翠新品"],
